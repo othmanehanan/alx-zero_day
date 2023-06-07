@@ -1,0 +1,2 @@
+cd ..
+cat > README.md
